@@ -1,0 +1,8 @@
+.container {
+  /* background-color: red; */
+  width: 90vw;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+}
